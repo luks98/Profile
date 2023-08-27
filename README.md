@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debadatta Nayak</h1>
-<h3 align="center">A passionate engineer from India</h3>
+<h3 align="center">A passionate software engineer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luks98" alt="luks98" /></a> </p>
 
